@@ -1,5 +1,45 @@
-img {
+/*----------------------------------*/
+header {
+    padding-top: 20px;
+}
+header img {
     max-width:100%;
     max-height:auto;
 }
+header div {
+    text-align: center;
+    margin: auto;
+}
+footer img {
+    max-width:100%;
+    max-height:auto;
+}
+/*----------------------------------*/
+h1 {
+    font-family: "Playfair Display";
+    font-size: 5rem;
+    font-weight: 300;
+    color: #2A5D4C;
+    text-transform: uppercase;
+}
+h2 {
+    font-family: "Playfair Display";
+    font-size: 3rem;
+    font-weight: 500;
+    color: #2A5D4C;
+    border-bottom: 1px solid #92E027;
+}
 
+h3 {
+    font-family: "Playfair Display";
+    font-size: 2rem;
+    font-weight: 600;
+    color: #2A5D4C;
+    margin-bottom: 0px;
+}
+
+p {
+    font-family: "Work Sans";
+    font-size: 2rem;
+    color: #484B49;
+}
