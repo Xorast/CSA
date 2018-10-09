@@ -43,3 +43,7 @@ p {
     font-size: 2rem;
     color: #484B49;
 }
+/*----------------------------------*/
+.x_centered {
+    text-align: center;
+}
